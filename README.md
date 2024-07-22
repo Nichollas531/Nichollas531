@@ -23,6 +23,5 @@ Links to other repositories
 - 🔭 I’m currently working on Power BI projects
 - 🌱 I’m currently learning Azure cloud computing
 - 💬 Ask me about the countries I have lived
-- 📫 How to reach me: professionalnichollas@hotmail.com
 - ⚡ Fun fact: In high school, I made a short program called "girlfriend" using Java that would ask how my day went and would write my answers into a file called 'diary'
 
