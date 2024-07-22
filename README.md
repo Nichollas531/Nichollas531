@@ -1,8 +1,9 @@
-## Hi there 👋
+## 🖥 Nichollas Garcia
+About me:
 
-**Nichollas531/Nichollas531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages icons
 
-Here are some ideas to get you started:
+Links to other repositories
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
