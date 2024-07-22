@@ -1,8 +1,21 @@
 ## 🖥 Nichollas Garcia
 About me:
 
-Languages icons
+### 🧰 Languages and Tools
 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="" />
+<br />
+
+#
 Links to other repositories
 
 - 🔭 I’m currently working on ...
