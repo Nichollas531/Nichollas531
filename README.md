@@ -1,5 +1,6 @@
 ## 🖥 Nichollas Garcia
-About me:
+
+Inspired to know how a calculator work back when I was only 8 years old, my thirst to understand the technology around us has always pushed me into learning new technical languages.
 
 ### 🧰 Languages and Tools
 
