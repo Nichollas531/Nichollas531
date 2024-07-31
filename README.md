@@ -16,7 +16,7 @@ Inspired to know how a calculator functions when I was only 8 years old, my thir
 <img align="left" alt="mySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="mySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <br />
-
+![nichollas GitHub stats](https://github-readme-stats.vercel.app/api?username=Nichollas531&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
 #
 Links to other repositories
 
