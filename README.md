@@ -41,5 +41,5 @@
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nichollas531&show_icons=true&locale=en" alt="nichollas531" width="495px" height="145px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nichollas531&show_icons=true&locale=en" alt="nichollas531" width="495px" height="195px"/>
 </p>
