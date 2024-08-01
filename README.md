@@ -36,8 +36,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
   </p>
 
-<p align=center">
+<div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nichollas531&show_icons=true&locale=en&layout=compact&langs_count=10&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&card_width=220" align="center" />
   &nbsp;
  <img src="https://gh-readme.vercel.app/api?username=nichollas531&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&hide_rank=true&line_height=28" align="center" />
-</p>
+</div>
