@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning more about **Pandas, metplotlib and seaborn libraries**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/nichollasgarcia](https://sites.google.com/view/nichollasgarcia)
+- 👨‍💻 All of my projects are available at [my google site](https://sites.google.com/view/nichollasgarcia)
 
 - 💬 Ask me about **how many languages I speak**
 
