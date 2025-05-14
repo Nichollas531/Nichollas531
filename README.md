@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nichollas Garcia</h1>
-<h3 align="center">A passionate data analyst from Brazil</h3>
+<h3 align="center">A passionate front end developer</h3>
 
-- 🔭 I’m looking to work on **Data Analyst role**
+- 🔭 I’m looking to build a career within the **dev industry**
 
 - 🌱 I’m currently learning more about **Pandas, metplotlib and seaborn libraries**
 
