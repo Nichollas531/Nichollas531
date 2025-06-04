@@ -3,17 +3,7 @@
 
 - 🔭 I’m looking to build a career within the **dev industry**
 
-- 🌱 I’m currently learning more about **Pandas, metplotlib and seaborn libraries**
-
-- 👨‍💻 All of my projects are available at [my google site](https://sites.google.com/view/nichollasgarcia)
-
-- 💬 Ask me about **how many languages I speak**
-
-- 📫 How to reach me **professionalnichollas@hotmail.com**
-
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1lNzxHN-zykLefnzhn1DBAlj9lFZTK430/edit?usp=drive_link&ouid=107260841767392717182&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I like completing puzzles on my free time**
+- 🌱 I’m currently learning more about **Pandas, ReactJS and NextJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
